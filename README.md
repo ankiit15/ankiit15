@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankiit15
 - 👀 I’m interested in Coding & Programming
-- 🌱 I’m currently learning SY BTECH (cse)
+- 🌱 I’m currently learning TY BTECH (cse)
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me (contactankiit@gmail.com)
 - 😄 Pronouns: Ankit
